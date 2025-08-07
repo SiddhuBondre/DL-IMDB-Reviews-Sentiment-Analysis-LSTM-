@@ -22,6 +22,7 @@ Split:
 
 ⚙️ Tech Stack
 Language: Python
+
 Libraries:
 TensorFlow / Keras
 NumPy
@@ -30,7 +31,9 @@ Matplotlib / Seaborn (for visualization)
 
 📊 Results
 Accuracy Achieved: ~85–88% (varies slightly depending on parameters and random seed)
+
 Loss Function: Binary Crossentropy
+
 Optimizer: Adam
 
 📈 Visualizations (Optional)
@@ -47,6 +50,9 @@ This approach can be further improved using Bidirectional LSTM, GRU, or pretrain
 🚀 Future Enhancements
 
 Use pre-trained word embeddings (GloVe, Word2Vec)
+
 Try Bidirectional LSTM or GRU
+
 Add attention mechanism
+
 Use transformers (BERT)
