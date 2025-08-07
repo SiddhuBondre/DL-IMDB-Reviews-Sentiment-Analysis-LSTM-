@@ -39,7 +39,9 @@ Plot training vs validation accuracy and loss using Matplotlib to observe overfi
 ✅ Conclusion
 
 LSTM is effective for handling sequential text data like movie reviews.
+
 Proper padding, embedding, and dropout prevent overfitting and improve generalization.
+
 This approach can be further improved using Bidirectional LSTM, GRU, or pretrained embeddings (like GloVe).
 
 🚀 Future Enhancements
