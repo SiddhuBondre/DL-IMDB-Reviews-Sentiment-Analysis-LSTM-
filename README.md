@@ -22,7 +22,6 @@ Split:
 
 ⚙️ Tech Stack
 Language: Python
-
 Libraries:
 TensorFlow / Keras
 NumPy
